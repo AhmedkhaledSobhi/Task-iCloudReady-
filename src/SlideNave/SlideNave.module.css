@@ -1,0 +1,15 @@
+section[ id='Nav']{
+    position:fixed ;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    width:355px;
+    z-index: 99999999999999999999999999999;
+    background-color: white !important;
+
+}
+
+section
+{
+    background: linear-gradient(342.45deg, #97E0F3 -32.65%, #FFFFFF 85.43%);
+}

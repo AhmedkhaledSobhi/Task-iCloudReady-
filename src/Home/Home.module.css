@@ -1,0 +1,83 @@
+
+section
+{
+    background: linear-gradient(342.45deg, #97E0F3 -32.65%, #FFFFFF 85.43%);
+}
+
+div[id='Rectangle24']
+{
+    position: absolute;
+    top: -33%;
+    left: 45%;
+    z-index: -0.1 !important;
+    width:809.09px ;
+    height:1584.18px;
+    background: linear-gradient(283.59deg, #00244D 26.1%, #1769C6 170.66%);
+    transform: rotate(36.07deg);
+}
+
+.Support
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #FFFFFF;
+opacity: 0.17;
+}
+
+div[ id='curd']
+{
+    position: absolute ;
+    width: 100%;
+    z-index: 999999999 ;
+}
+
+div[id='crudIcon']
+{
+    width: 40px;
+    height: 40px;
+    background-color: rgba(0, 0, 0,0.3);
+    opacity: 0.8;
+}
+
+div[id='Customer']{
+    background-color: #0A488F;
+    height: 100%;
+}
+div[id='Actionable']{
+    background-color: #579064;
+    height: 250%;
+}
+div[id='Employees']{
+    background-color: #950000;
+    height: 100%;
+}
+div[id='Operations']{
+    background-color: #8F6C0A;
+    height: 100%;
+}
+
+p span{
+    color: #0097C2;
+}
+div[ id='foter']{
+    width: 100%;
+    z-index: 99999999999999999999999999 !important;
+    position: absolute; 
+    bottom: 27px;
+}
+
+div[id='Support'] h3
+{
+    color: #0097C2;
+    
+}
+div[id='Rectangle29']{
+    position: fixed;
+    left: 0px;
+    bottom: 27px;
+    width:  40px !important;
+    height: 150px !important;
+    background-color: #0097C2 !important;
+    z-index: 9999999999;
+}

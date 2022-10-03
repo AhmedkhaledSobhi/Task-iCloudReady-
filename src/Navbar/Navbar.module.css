@@ -1,0 +1,55 @@
+
+img[alt='mage17png']
+{
+    position: absolute;
+    left: 22px;
+}
+img[alt='mage16png']
+{
+    position: absolute;
+    left: 45px;
+}
+img[alt='mage15png']
+{
+    position: absolute;
+    left: 67px;
+}
+img[alt='Vectorpng']
+{
+    position: absolute;
+    left: 88px;
+}
+img[alt='png3']
+{
+    position: absolute;
+    left: 124px;
+    top: 13px;
+}
+img[alt='Ellipse42png']
+{
+    position: absolute;
+    left: 110px;
+    
+}
+
+span[id='Book']
+{
+color: #0097C2 !important;
+}
+
+.Path4221png{
+    position: absolut;
+    width: 40px ;
+    height: 40px;
+    border-radius:50px;
+    left: 83.4%;
+    right: 13.82%;
+    top: 0.77%;
+    bottom: 98%;
+    background: #E1ECF9;
+}
+.numbericon{
+    width: 18px;
+    height: 18px;
+    background: #FFD900;
+}
