@@ -18,7 +18,7 @@ export default function Home() {
                 </div>
                 <div id='Support'  className='w-100 h-25  position-sta d-flex  align-items-end'>
                     <div className='container w-75 d-flex justify-content-between '>
-                        <h3 className='fw-bolr mb-4'>Get Support <i className="fa-brands fa-sketch"></i></h3>
+                        <h3 className=' mb-4'>Get Support <i className="fa-brands fa-sketch"></i></h3>
                         <div className={`d-flex justify-content-center align-items-center ${HomeStyle.Support}`}>
                         <i className="fa-brands fa-sketch fa-9"></i>
                         </div>
@@ -54,16 +54,16 @@ export default function Home() {
                             </div>
 
                             <div className='col-md-3 text-white'>
-                                <Link  to='ActionableInsighets' className='text-decoration-none text-white'>
+                                <Link  to='Actionable' className='text-decoration-none text-white'>
                                 <div className=' border rounded-3 bg-white pt-4'>
                                     <div className='text-center'>
                                         <img className=' my-3' src={ActionableInsights} alt="" />
                                     </div>
                                     <div id='Actionable' className='border border-5 border-white rounded-3 p-3'>
-                                        <h6>Actionable Insighets</h6>
+                                        <h6>Actionable </h6>
                                         <p>Create Dashboards </p>
                                         <div className=' d-flex justify-content-between align-content-center pt-3'>
-                                            <span className='mt-2'>100 DTSU*</span>
+                                            <span className='mt-2'>100 dTSU *</span>
                                             <div className=' d-flex'>
                                                 <div id='crudIcon' className=' rounded-circle d-flex justify-content-center align-items-center mx-1'>
                                                     <i className="fa-regular fa-pen-to-square fa-5 text-white"></i>                                      
@@ -137,7 +137,7 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-                <div id='foter' className='bg-white p-2 mt-5 text-center'>
+                <div id='footer' className='bg-white p-2 mt-5 text-center'>
                     <p className=''>Got questions?  Take a look at our <span>FAQs</span> , talk to us on Twitter <span>@icloudready</span>  or send an email to <span>team@icloud-ready.com</span></p>
                 </div>
                 <div id='Rectangle29'></div>

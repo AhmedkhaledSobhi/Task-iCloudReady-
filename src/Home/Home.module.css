@@ -60,7 +60,7 @@ div[id='Operations']{
 p span{
     color: #0097C2;
 }
-div[ id='foter']{
+div[ id='footer']{
     width: 100%;
     z-index: 99999999999999999999999999 !important;
     position: absolute; 
